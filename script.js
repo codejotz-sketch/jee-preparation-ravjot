@@ -1,0 +1,1 @@
+alert("Welcome to your ultimate JEE preparation portal! Learn, practice, and stay consistent to achieve your dream IIT/NIT rank.")
